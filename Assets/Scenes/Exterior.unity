@@ -681,7 +681,7 @@ Animator:
   m_GameObject: {fileID: 398928925}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ea58abbc87bfab5429bdcc131bbf9d18, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -820,6 +820,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Movimiento2D
   velocidad: 5
+--- !u!114 &398928932
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398928925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b8b8a8f63e64d73a02f5bde7c9a18c4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: Assembly-CSharp::AnimacionJugador
+  movimiento: {fileID: 398928931}
+  combate: {fileID: 398928927}
+  animator: {fileID: 398928926}
+  parametroEstaCaminando: EstaCaminando
+  triggerAtaque: Ataque
 --- !u!4 &398928933 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1320952344413303088, guid: b23c9edc75db6f748b10841d1f29b246, type: 3}
@@ -2744,6 +2761,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2285873296840776021, guid: b23c9edc75db6f748b10841d1f29b246, type: 3}
       insertIndex: -1
       addedObject: {fileID: 398928926}
+    - targetCorrespondingSourceObject: {fileID: 2285873296840776021, guid: b23c9edc75db6f748b10841d1f29b246, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 398928932}
   m_SourcePrefab: {fileID: 100100000, guid: b23c9edc75db6f748b10841d1f29b246, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

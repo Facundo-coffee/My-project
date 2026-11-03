@@ -1018,7 +1018,7 @@ Animator:
   m_GameObject: {fileID: 1414728272}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ea58abbc87bfab5429bdcc131bbf9d18, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1030,6 +1030,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1414728290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1414728272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b8b8a8f63e64d73a02f5bde7c9a18c4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: Assembly-CSharp::AnimacionJugador
+  movimiento: {fileID: 1414728276}
+  combate: {fileID: 1414728286}
+  animator: {fileID: 1414728288}
+  parametroEstaCaminando: EstaCaminando
+  triggerAtaque: Ataque
 --- !u!1 &1463950661
 GameObject:
   m_ObjectHideFlags: 0
@@ -1397,6 +1414,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2285873296840776021, guid: b23c9edc75db6f748b10841d1f29b246, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1414728288}
+    - targetCorrespondingSourceObject: {fileID: 2285873296840776021, guid: b23c9edc75db6f748b10841d1f29b246, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1414728290}
   m_SourcePrefab: {fileID: 100100000, guid: b23c9edc75db6f748b10841d1f29b246, type: 3}
 --- !u!1 &1778072342
 GameObject:

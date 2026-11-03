@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-5761068139262966363
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_09_{-5761068139262966363}
+  m_AudioClip: {fileID: 8300000, guid: d47edcc3d17b9c24a970057c49cb221f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4744571676315548385
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_06_{-4744571676315548385}
+  m_AudioClip: {fileID: 8300000, guid: aaf4a91b4fdb62a46ab70bde45be98fb, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-3906102471650022681
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_13_{-3906102471650022681}
+  m_AudioClip: {fileID: 8300000, guid: 87d8198895e00894d9c719487bf42148, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2789641653217243261
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_07_{-2789641653217243261}
+  m_AudioClip: {fileID: 8300000, guid: 0ab591366d8ddfd4db2bc530156bdd03, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-2530912568833992026
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_04_{-2530912568833992026}
+  m_AudioClip: {fileID: 8300000, guid: 28df00f5ce75f4c45acb783973522208, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1009462343052339067
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_05_{-1009462343052339067}
+  m_AudioClip: {fileID: 8300000, guid: bc190d47157a0b94f80d583f50fa67e5, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1000656191147296009
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_08_{-1000656191147296009}
+  m_AudioClip: {fileID: 8300000, guid: 8ad8ba40b5bb6da4990508ca718a186d, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-319834471646352225
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_14_{-319834471646352225}
+  m_AudioClip: {fileID: 8300000, guid: 69e18ea2a91b79f4091883a449d0c467, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &333811667152096302
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_11_{333811667152096302}
+  m_AudioClip: {fileID: 8300000, guid: b56d03027e39fd04c8d2930c61760361, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2023098221700140313
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_10_{2023098221700140313}
+  m_AudioClip: {fileID: 8300000, guid: e99af9df6a05d8249b6d9587def0d08b, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2876281249727829057
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_03_{2876281249727829057}
+  m_AudioClip: {fileID: 8300000, guid: bfe4ce2517604a4438d310cc74f2e902, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4449491752929443208
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_15_{4449491752929443208}
+  m_AudioClip: {fileID: 8300000, guid: 25a5427bad3248a41b32872b121a631f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &6386727663820869077
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_01_{6386727663820869077}
+  m_AudioClip: {fileID: 8300000, guid: 288cfa5e9ab70174fbb6ae2d7eedcf26, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player_Pasos
+  m_Volume: -5
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 6386727663820869077}
+  - {fileID: 7968226509530363874}
+  - {fileID: 2876281249727829057}
+  - {fileID: -2530912568833992026}
+  - {fileID: -1009462343052339067}
+  - {fileID: -4744571676315548385}
+  - {fileID: -2789641653217243261}
+  - {fileID: -1000656191147296009}
+  - {fileID: -5761068139262966363}
+  - {fileID: 2023098221700140313}
+  - {fileID: 333811667152096302}
+  - {fileID: 6556114805340607693}
+  - {fileID: -3906102471650022681}
+  - {fileID: -319834471646352225}
+  - {fileID: 4449491752929443208}
+  m_AvoidRepeatingLast: 1
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6556114805340607693
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_12_{6556114805340607693}
+  m_AudioClip: {fileID: 8300000, guid: 5a12a0ebe18561e42a15ebe228b6e708, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7968226509530363874
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_locom_pasos_02_{7968226509530363874}
+  m_AudioClip: {fileID: 8300000, guid: 9be9c84103fe94b4e8148ee4644e52ca, type: 3}
+  m_Volume: 0
+  m_Enabled: 1

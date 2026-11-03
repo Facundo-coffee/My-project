@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-4550530877037419053
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_09_{-4550530877037419053}
+  m_AudioClip: {fileID: 8300000, guid: a236d74b9af90864885c94d48b64a600, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1775337626493671344
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_06_{-1775337626493671344}
+  m_AudioClip: {fileID: 8300000, guid: 3968916481e71de4e95fcfa2b5714f94, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-127329436253141365
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_05_{-127329436253141365}
+  m_AudioClip: {fileID: 8300000, guid: 0e75eb63b79bee043bfec75bdff87245, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &2593072180867458886
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_02_{2593072180867458886}
+  m_AudioClip: {fileID: 8300000, guid: e5284191beec75442aa69740d5864024, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &3737836070250398846
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_03_{3737836070250398846}
+  m_AudioClip: {fileID: 8300000, guid: f91758ce6ac44714db5e03f45c64df8e, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5111338060118913575
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_08_{5111338060118913575}
+  m_AudioClip: {fileID: 8300000, guid: 9c5ede40a69bb5746ae3a099dac6ff52, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &5993334871500718309
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_01_{5993334871500718309}
+  m_AudioClip: {fileID: 8300000, guid: f9eabcbaa3d455640bcce964e4a117ec, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player_Golpes
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: 5993334871500718309}
+  - {fileID: 2593072180867458886}
+  - {fileID: 3737836070250398846}
+  - {fileID: 7876568548421687282}
+  - {fileID: -127329436253141365}
+  - {fileID: -1775337626493671344}
+  - {fileID: 7344375446434600246}
+  - {fileID: 5111338060118913575}
+  - {fileID: -4550530877037419053}
+  m_AvoidRepeatingLast: 1
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &7344375446434600246
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_07_{7344375446434600246}
+  m_AudioClip: {fileID: 8300000, guid: e8d5927717dbed34984dabed6848b8a1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7876568548421687282
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_ataque_brazo_04_{7876568548421687282}
+  m_AudioClip: {fileID: 8300000, guid: f7986c2afc683654eb45e1f72765b89f, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
